@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on ("XYZ")
 - 📫 How to reach me Linkedin @addigaur
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm a night owl
